@@ -1,6 +1,6 @@
 {
   "name": "react-native-dynamic-app-icon-without-alert",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Programmatically change the app icon in React Native, without the alert.",
   "homepage": "https://github.com/FelixJohnsson/react-native-dynamic-app-icon-without-alert",
   "keywords": [
