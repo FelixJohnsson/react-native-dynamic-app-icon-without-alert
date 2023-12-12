@@ -1,5 +1,5 @@
 
-# React Native Dynamic App Icon
+# React Native Dynamic App Icon -  Without that stupid alert
 
 Since iOS 10.3 Apple supports alternate App Icons to be set programmatically. This package integrates this functionality as React Native module. Android is not (yet?) supported.
 
