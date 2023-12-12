@@ -1,8 +1,8 @@
 {
-  "name": "react-native-dynamic-app-icon",
-  "version": "1.1.0",
-  "description": "Programmatically change the app icon in React Native.",
-  "homepage": "https://github.com/idearockers/react-native-dynamic-app-icon",
+  "name": "react-native-dynamic-app-icon-without-alert",
+  "version": "1.2.0",
+  "description": "Programmatically change the app icon in React Native, without the alert.",
+  "homepage": "https://github.com/FelixJohnsson/react-native-dynamic-app-icon-without-alert",
   "keywords": [
     "react-native",
     "app",
@@ -14,12 +14,12 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/idearockers/react-native-dynamic-app-icon.git"
+    "url": "https://github.com/FelixJohnsson/react-native-dynamic-app-icon-without-alert"
   },
   "bugs": {
-    "url": "https://github.com/idearockers/react-native-dynamic-app-icon/issues"
+    "url": "https://github.com/FelixJohnsson/react-native-dynamic-app-icon-without-alert/issues"
   },
-  "author": "idearockers <lars@idearockers.com> (https://www.idearockers.com)",
+  "author": "FJ <felix.johnsson@proton.me> (https://www.linkedin.com/in/felixjohnsson/)",
   "license": "MIT",
   "peerDependencies": {
     "react-native": ">=0.41.2"
