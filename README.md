@@ -13,6 +13,12 @@ Since iOS 10.3 Apple supports alternate App Icons to be set programmatically. Th
 
 ## Install
 
+### Installation with [@config-plugins/react-native-dynamic-app-icon](https://www.npmjs.com/package/@config-plugins/react-native-dynamic-app-icon)
+
+Probably easiest installation.
+
+### Other installations
+
 ```
 $ npm install react-native-dynamic-app-icon
 ```
@@ -22,6 +28,7 @@ $ npm install react-native-dynamic-app-icon
 ```
 $ react-native link react-native-dynamic-app-icon
 ```
+
 
 ### Manual installation
 
